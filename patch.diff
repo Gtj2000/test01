@@ -1,0 +1,11 @@
+diff --git a/1.txt b/1.txt
+index c62f490..ef83a70 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1 +1,3 @@
+-准备创建补丁
+\ No newline at end of file
++准备创建补丁
++
++创建补丁
+\ No newline at end of file
